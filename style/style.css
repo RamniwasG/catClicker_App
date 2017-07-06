@@ -1,0 +1,33 @@
+
+span{
+  margin-left: 20px;
+}
+#designDiv
+{
+    width:249px;
+    height:499px;
+    overflow-y: auto;
+    max-width:230px;
+    max-height:300px;
+}
+.container{
+  margin-top: 20px;
+}
+span.badge{
+  margin-left: 20px;
+}
+div#main{
+  border:0px solid black;
+}
+div#catList{
+  width:200px;
+  height:450px;
+}
+.thumbnail{
+  display:inline;
+  float:left;
+  width:25%;
+}
+span.space{
+  margin-left: 30px;
+}
